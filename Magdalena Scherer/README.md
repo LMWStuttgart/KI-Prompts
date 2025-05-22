@@ -10,4 +10,4 @@ Denoising strength: 1.00, Mask blur: 8, Lora hashes: "Raphael_HighRenaissance_VI
 
 
 
-**Anmerkung:** Um keine zierliche und sexualisierte Figur zu generieren, mussten bei der Visualisierung von Magdalena Scherer explizit negativ-konnotierte Begriffe wie ‚hässlich‘ (‚ugly‘) verwendet werden. Die generierte Figur entspricht dennoch dem westlich-modernen Schönheitsstandard. Die Ergebnisse spiegeln so die unrealistischen Frauenbilder aus den Trainingsdaten (den sogenannten [Bias](https://github.com/LMWStuttgart/KI-Ethik/blob/main/0202_glossar_bias.md)) wider.
+*Anmerkung:* Um keine zierliche und sexualisierte Figur zu generieren, mussten bei der Visualisierung von Magdalena Scherer explizit negativ-konnotierte Begriffe wie ‚hässlich‘ (‚ugly‘) verwendet werden. Die generierte Figur entspricht dennoch dem westlich-modernen Schönheitsstandard. Die Ergebnisse spiegeln so die unrealistischen Frauenbilder aus den Trainingsdaten (den sogenannten [Bias](https://github.com/LMWStuttgart/KI-Ethik/blob/main/0202_glossar_bias.md)) wider. [Hier](https://www.youtube.com/watch?v=XB-iJLJaZsA) erfahren Sie mehr zur Entwicklung der Figur.
