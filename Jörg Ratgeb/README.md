@@ -12,7 +12,7 @@ Denoising strength: 0.35, Lora hashes: "Raphael_HighRenaissance_VII, ShinobiTech
 
 
 # Die historische Person
-Der Maler Jörg Ratgeb war in den Jahren vor dem Bauernkrieg Bürger Stuttgarts. Außer in der Württembergischen Residenzstadt war er an unterschiedlichen Orten tätig, unter anderem in Heilbronn und in Frankfurt am Main. Ein Hauptwerk Ratgebs ist z.B. der in der Staatsgalerie Stuttgart bewahrte [Herrenberger Altar] (https://www.staatsgalerie.de/de/sammlung-digital/herrenberger-altar) (um 1519). Im Bauernkrieg verhandelte Jörg Ratgeb zunächst im Namen der Stadt mit den Richtung Stuttgart vorrückenden Bauern. Zwischen Ende April und Mitte Mai 1525 war er Leiter einer Bauernkanzlei. Nach der Schlacht von Böblingen floh Ratgeb, wurde jedoch gefasst und 1526 wegen Hochverrats durch Vierteilen hingerichtet. 
+Der Maler Jörg Ratgeb war in den Jahren vor dem Bauernkrieg Bürger Stuttgarts. Außer in der Württembergischen Residenzstadt war er an unterschiedlichen Orten tätig, unter anderem in Heilbronn und in Frankfurt am Main. Ein Hauptwerk Ratgebs ist z.B. der in der Staatsgalerie Stuttgart bewahrte [Herrenberger Altar](https://www.staatsgalerie.de/de/sammlung-digital/herrenberger-altar) (um 1519). Im Bauernkrieg verhandelte Jörg Ratgeb zunächst im Namen der Stadt mit den Richtung Stuttgart vorrückenden Bauern. Zwischen Ende April und Mitte Mai 1525 war er Leiter einer Bauernkanzlei. Nach der Schlacht von Böblingen floh Ratgeb, wurde jedoch gefasst und 1526 wegen Hochverrats durch Vierteilen hingerichtet. 
 
 
 # ... als KI-Figur:
