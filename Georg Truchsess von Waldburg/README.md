@@ -13,3 +13,13 @@ Steps: 20, Sampler: DPM++ SDE Karras, CFG scale: 7, Seed: 1644309797,
 Size: 512x1024, Model hash: 15012c538f, Model: realisticVisionV51_v51VAE,
 Denoising strength: 0.5, Hires upscale: 2, Hires upscaler: R-ESRGAN 4x+,
 Lora hashes: "ShinobiTech-20: 3fc4e50029b6", Version: v1.6.
+
+
+# Die historische Person
+
+Der Adelige Georg von Waldburg, auch bekannt als „Bauernjörg”, war der Hauptgegner der Bauern. Zuvor hatte er als Diplomat, Verwalter und Militär den größeren Mächten in Süddeutschland gedient, bis ihn der Schwäbische Bund mit der Niederschlagung der aufständischen Bauern beauftragte. Georg führte ein wachsendes Heer in das Bundesgebiet, zerschlug mehrere Bauernhaufen in diversen Schlachten, ließ Dörfer angreifen und zwang die Bauern nacheinander zur Unterwerfung. Wo nützlich, führte er Verhandlungen mit den Bauernanführern und zeigte sich kompromissbereit. Auf diese Weise setzte Georg 1525 dem bewaffneten Aufstand ein Ende. Nach seinem Feldzug machte Georg seinen eigenen Untertanen mehr Zugeständnisse als zuvor, indem er beispielsweise den Freikauf aus der Leibeigenschaft ermöglichte. 
+
+
+# ... als KI-Figur:
+
+Georg von Waldburg wird als Feldherr inszeniert – nicht als einfacher Kämpfer, sondern als befehlshabender Anführer. Seine Kleidung spiegelt diese Rolle wider und kombiniert verschiedene militärische Elemente: Teile einer abstrahierten Rüstung erinnern an historische Vorbilder, während der lederne Kampfanzug Assoziationen an moderne Actionfilme weckt. Er trägt eine Goldkette, die an historische Amtsketten erinnert. Zusammen mit den goldenen Rüstungsteilen ist sie ein Zeichen von Macht und der hervorgehobenen Stellung des adligen Feldherrn in der gesellschaftlichen Hierarchie. Das Aussehen der KI-Figur weicht von historischen Vorlagen ab und steht sinnbildlich für seinen Charakter: Die akkurate Frisur und Bartmode sowie die kühle, distanzierte Ausstrahlung unterstreichen seine Rolle als taktisch denkender, berechnender Feldherr im Bauernkrieg.
