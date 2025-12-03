@@ -11,7 +11,7 @@ Denoising strength: 1.00, Mask blur: 8, Lora hashes: "Raphael_HighRenaissance_VI
 
 # Die historische Person
 
-Magdalena Scherer aus Stuttgart fiel 1525 gleich mehrfach durch außergewöhnliche Protestformen auf: Als der vertriebene Herzog Ulrich – der sich mit den Aufständischen zusammenschließen wollte – vor den Toren Stuttgarts lagerte, ermutigte sie verschiedene Frauen, mit ihr gemeinsam von der Stadtmauer aus die Belagerer anzufeuern. Später verhöhnte sie deren Gegner, den Schwäbischen Bund, indem sie sich entblößte (inwiefern genau ist nicht überliefert), sich auf den Hintern klopfte und den Bund auch verbal verspottete. Magdalena floh, durfte aber zurückkehren – gegen eine Reihe harter Auflagen. Wer war nun diese Magdalena Scherer? Mit Sicherheit eine Frau, die Menschen begeistern und mitreißen konnte, wie ihr Protest zeigt.
+Magdalena Scherer aus Stuttgart fiel 1525 gleich mehrfach durch außergewöhnliche Protestformen auf: Als der vertriebene Herzog Ulrich – der sich mit den Aufständischen zusammenschließen wollte – vor den Toren Stuttgarts lagerte, ermutigte sie verschiedene Frauen, mit ihr gemeinsam von der Stadtmauer aus die Belagerer anzufeuern. Später verhöhnte sie deren Gegner, den Schwäbischen Bund, indem sie sich entblößte (inwieweit genau ist nicht überliefert), sich auf den Hintern klopfte und den Bund auch verbal verspottete. Magdalena floh, durfte aber zurückkehren – gegen eine Reihe harter Auflagen. Wer war nun diese Magdalena Scherer? Mit Sicherheit eine Frau, die Menschen begeistern und mitreißen konnte, wie ihr Protest zeigt.
 
 
 # ... als KI-Figur:
