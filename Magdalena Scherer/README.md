@@ -20,3 +20,6 @@ Magdalena Scherer aus Stuttgart fiel 1525 gleich mehrfach durch außergewöhnlic
 # ... als KI-Figur:
 
 Die Figur Magdalena Scherer trägt ein modernes Barett: Dieses Kleidungsstück stammte ursprünglich aus der Männermode und galt um 1500 daher bei Frauen als provokant, ja sogar als unweiblich und sündhaft. In Anlehnung an diese historische Symbolik steht das Barett hier für modischen Aufruhr – passend zu Magdas körperlich-kreativer Form des Widerstands. Die Gestaltung der Figur ist inspiriert von der Abbildung einer Handwerkerin um 1525: Dieses Bild sowie die abgebildete Mode passt gut zur städtischen Herkunft der Figur Magdalena Scherer und beeinflusste auch die Farbgebung der Kleidung. Ein modernes Tattoo am Hals ergänzt die rebellische Ausstrahlung.
+
+
+![Characters_Name_Prompt_00004_4](https://github.com/user-attachments/assets/297e04d0-0d20-47ec-93c2-ff5f36df3305)
