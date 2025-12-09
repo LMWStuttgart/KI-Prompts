@@ -23,3 +23,6 @@ Der Adelige Georg von Waldburg, auch bekannt als „Bauernjörg”, war der Haup
 # ... als KI-Figur:
 
 Georg von Waldburg wird als Feldherr inszeniert – nicht als einfacher Kämpfer, sondern als befehlshabender Anführer. Seine Kleidung spiegelt diese Rolle wider und kombiniert verschiedene militärische Elemente: Teile einer abstrahierten Rüstung erinnern an historische Vorbilder, während der lederne Kampfanzug Assoziationen an moderne Actionfilme weckt. Zudem trägt er eine Goldkette, die historischen Amtsketten ähnelt. Zusammen mit den goldenen Rüstungsteilen ist sie ein Zeichen von Macht und steht für die hervorgehobene Stellung des adligen Feldherrn in der gesellschaftlichen Hierarchie. Das Aussehen der KI-Figur weicht von historischen Vorlagen ab und steht sinnbildlich für seinen Charakter: Die akkurate Frisur und Bartmode sowie die kühle, distanzierte Ausstrahlung unterstreichen seine Rolle als taktisch denkender, berechnender Feldherr im Bauernkrieg.
+
+
+![Characters_Name_Prompt_00002_2](https://github.com/user-attachments/assets/45be10d9-24ac-477d-b1bc-d2a954dabd85)
