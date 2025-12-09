@@ -18,3 +18,6 @@ Der Maler Jörg Ratgeb war in den Jahren vor dem Bauernkrieg Bürger Stuttgarts.
 # ... als KI-Figur:
 
 Als Vorlage für die Darstellung Jörg Ratgebs diente ein Porträt des Renaissance-Künstlers Albrecht Dürer. Die halblangen, gelockten Haare finden sich so auch in anderen Abbildungen zeitgenössischer Maler. Ebenfalls angelehnt an Dürer ist die auffällige, modisch wirkende Kleidung. Das äußere Erscheinungsbild bringt zugleich den Charakter der Figur zum Ausdruck: eine Mischung aus respektabler Persönlichkeit und kreativem Künstler. Mit seiner auffälligen Frisur und dem glänzenden Hemd erhält Ratgeb eine Art „Künstler-Chic“ – durch diesen ist die Figur leicht wiederzuerkennen.
+
+
+![Characters_Name_Prompt_00008_8](https://github.com/user-attachments/assets/92a1651c-c28d-4cff-b836-7e707849f55d)
