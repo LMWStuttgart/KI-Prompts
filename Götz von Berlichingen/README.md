@@ -22,3 +22,6 @@ Götz von Berlichingen, der Ritter mit der eisernen Hand, ist wahrscheinlich der
 # ... als KI-Figur:
 
 Götz von Berlichingen trägt als KI-Figur eine Rüstung: Diese steht für die kriegerische Seite des Rittertums, die für Götz große Bedeutung hatte. Der Rost auf seiner Rüstung verweist einerseits auf seine Erfahrung in zahlreichen Kampfeinsätzen. Andererseits ist Rost auch ein Symbol für Verfall und Vergänglichkeit – und verweist so auf den Wandel des Rittertums, mit dem Götz innerlich rang. Trotz seiner nostalgischen Haltung ist Götz keine rein rückwärtsgewandte Figur. Die Handprothese, seine sogenannte „Eiserne Hand“, wirkt futuristisch, schließlich war die mechanische Prothese im frühen 16. Jahrhundert eine technische Meisterleistung. Sie symbolisiert darüber hinaus auch Götz‘ Anpassungsfähigkeit an neue Situationen. Dies zeigt sich besonders in seinem flexiblen Umgang mit dem Verlust seiner Schwerthand: So nutzte Götz nicht nur die neue Handprothese, sondern trainierte auch seine linke Hand.
+
+
+![Characters_Name_Prompt_00001_1](https://github.com/user-attachments/assets/31217210-5346-4ed0-9f29-4d8285f79602)
