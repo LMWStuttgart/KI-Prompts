@@ -14,3 +14,6 @@ Der Memminger Bürger Sebastian Lotzer spielte bei der Zusammenstellung der „1
 # ... als KI-Figur:
 
 Die Figur Sebastian Lotzer trägt als protestantischer Laientheologe eine modern interpretierte Version des typischen Reformatoren-Outfits: Angelehnt an zeitgenössische Bildquellen wurde die klassische schwarze Schaube in einen Ledermantel mit Pelzkragen übersetzt, der zudem auf Lotzers Beruf als Kürschner verweist. Auch das charakteristische Barett der Reformatoren erhielt einen modernen Look. Lotzer war der Verfasser der „12 Artikel“ und wurde in der Ausstellung ["UFFRUR! Utopie und Widerstand im Bauernkrieg 1524/1525"](https://www.landesmuseum-stuttgart.de/ausstellungen/rueckblick) daher als Mann des Wortes charakterisiert: Darauf anspielend schmücken Projektionen von Flugschriften seinen Mantel und unterstreichen seine Rolle als wortmächtiger Vertreter reformatorischer Forderungen.
+
+
+![Characters_Name_Prompt_00003_3](https://github.com/user-attachments/assets/4df0dde3-34a9-41ca-a706-3c8d1d6edb05)
