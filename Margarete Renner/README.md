@@ -14,3 +14,6 @@ Margarete Renner trat nicht erst durch ihre Beteiligung am Bauernkrieg 1525 öff
 # ... als KI-Figur:
 
 Margarete Renner repräsentiert gemeinsam mit Stefan Rahl die bäuerliche Seite. Ihre Kleidung aus einfachem Leinen steht daher auch im Kontrast zur städtischen Magdalena Scherer und verweist auf die ländliche Herkunft. Das Motiv der hochgekrempelten Ärmel findet man häufig in zeitgenössischen Darstellungen arbeitender Frauen, insbesondere bei Bäuerinnen. Sie sind Ausdruck für Margaretes praktische Tatkraft. Auch das Haarband ist mehr als ein schmückendes Detail: Es verweist sowohl auf die historische Haube als auch auf das Kopftuch, das noch heute zum Bild der Bäuerin gehört. Das rote Halstuch bringt eine emotionale Dimension ins Spiel: Entsprechend der Farbsymbolik steht es für die Wut und den Widerstand der Figur.
+
+
+![Characters_Name_Prompt_00005_5](https://github.com/user-attachments/assets/5b000b65-e866-4f7c-8b4a-c3d9e8972fd2)
