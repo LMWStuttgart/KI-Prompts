@@ -15,3 +15,6 @@ Einer der Bauern aus der Grundherrschaft der Abtei Weißenau war Stefan Rahl. Au
 # ... als KI-Figur:
 
 Das Aussehen der KI-Figur Stefan Rahl greift Motive aus seiner Darstellung in der Weißenauer Chronik auf: Als zentrales Attribut trägt er einen Brustpanzer – ein Hinweis auf seine Wehrhaftigkeit und seinen Status als wohlhabender Bauer, der sich mit Waffen und Rüstungsteilen ausstatten konnte. Sein Erscheinungsbild unterstreicht das selbstbewusste Auftreten der Figur. Das bläuliche Hemd – Blau war eine weit verbreitete Farbe – sowie die auffällige Bartmode im Wilhelm-Tell-Look unterscheidet Rahl von den restlichen Figuren. Der moderne „Man Bun“ schafft eine Brücke zur Gegenwart.
+
+
+![Characters_Name_Prompt_00007_7](https://github.com/user-attachments/assets/a2e8e162-0fde-45df-8fd5-ffd73a94f5ad)
