@@ -20,3 +20,6 @@ Jakob Murer ist der Mann, dem wir die eindrücklichste Quelle der Ereignisse des
 # ... als KI-Figur:
 
 Das Erscheinungsbild der KI-Figur orientiert sich an historischen Darstellungen Jakob Murers: Er trägt den weißen Habit des Prämonstratenserordens, wie er seit Jahrhunderten überliefert ist. Bei der Gestaltung wurde größtenteils auf futuristische Elemente verzichtet. Zum einen, weil die Ordenstracht bis heute nahezu unverändert geblieben ist – zum anderen, da sich die Figur als geistlicher Hirte versteht und durch die traditionellen Gewänder als solcher auch heute erkennbar ist.
+
+
+![Characters_Name_Prompt_00006_6](https://github.com/user-attachments/assets/aaa5b1ab-0970-4167-a846-494b5efb5b1d)
